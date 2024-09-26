@@ -12,3 +12,4 @@
 - Secure Authentication: Integrated JWT for strong user authentication and authorization, ensuring data security.
 - Real-Time Notifications: Utilized WebSockets to provide instant notifications and real-time updates.
 
+[screen-recorder-wed-sep-25-2024-22-05-40.webm](https://github.com/user-attachments/assets/363b2748-1bbe-4457-8a30-f0151fc6edde)
